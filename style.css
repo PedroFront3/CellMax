@@ -931,6 +931,7 @@ form.form-cadastro .inputs-submit input[type=submit]:hover {
     gap: 5px;
   }
   form.form-cadastro .inputs-text input[type=text] {
+    width:90%;
     padding: 10px 10px;
   }
   form.form-cadastro .inputs-email {
