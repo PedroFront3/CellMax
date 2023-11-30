@@ -150,8 +150,8 @@ nav.menu-desktop ul li {
 
 nav.menu-desktop ul li a {
   color: #ffffff;
-  padding: 0 10px;
-  font-size: 15px;
+  padding: 0 6px;
+  font-size: 13px;
   font-weight: bold;
 }
 
@@ -360,11 +360,11 @@ section.sessao4 {
     max-width: 1400px;
   }
   .card {
-    width: 50px;
-    padding: 8px;
+    width: 36px;
+    padding: 7px;
   }
   .card img {
-    width: 40px;
+    width: 35px;
   }
   .card p {
     font-size: 10px;
@@ -603,7 +603,7 @@ button.btn3:hover {
     padding-top: 30px;
   }
   .produto {
-    width: 300px;
+    width: 250px;
     height: 380px;
     margin: 20px auto;
   }
