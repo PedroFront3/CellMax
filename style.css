@@ -987,7 +987,7 @@ footer.footer2 {
 }
 @media screen and (max-width: 1030px) {
   footer.footer2 {
-   height: 100px;
+   height: 160px;
  
 }
   .flex-footer2 {
@@ -998,6 +998,6 @@ footer.footer2 {
   .infos p {
     font-size: 14px;
     font-weight: normal;
-    margin-top: 10px;
+    padding-top:10px;
   }
 }/*# sourceMappingURL=style.css.map */
