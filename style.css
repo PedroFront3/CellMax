@@ -372,11 +372,11 @@ section.sessao4 {
 }
 @media screen and (max-width: 1020px) {
   .card {
-    width: 90px;
+    width: 50px;
     padding: 10px;
   }
   .card img {
-    width: 60px;
+    width: 40px;
   }
   .card p {
     font-size: 10px;
