@@ -986,6 +986,10 @@ footer.footer2 {
   }
 }
 @media screen and (max-width: 1030px) {
+  footer.footer2 {
+   height: 100px;
+ 
+}
   .flex-footer2 {
     display: block;
     text-align: center;
